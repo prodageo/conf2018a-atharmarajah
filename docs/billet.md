@@ -50,7 +50,7 @@ D'autres notions sont également importantes telles que le partages de connaissa
 
 Le travail d'équipe doit être pris en compte par l'entraîneur. Pour y parvenir il doit traiter les joueurs différemment car ils ont des parcours, des vies et des cultures différentes. Il faut pouvoir les rendre heureux pour qu'ils puissent donner le meilleur d'eux mêmes. Il faut également leur faire comprendre que le travail est important pour le succès de l'équipe.
 
-Guy Fournier a comparé à de nombreuses reprises le management d'une équipe sportive à celle d'une équipe en entreprise.
+Guy Fournier a comparé à de nombreuses reprises le management d'une équipe sportive à celle d'une équipe en entreprise. Les différents éléments dont il nous a parlé peuvent en effet être appliqué pour toute entreprise.
 
 ## Architecture et facteur qualité
 
