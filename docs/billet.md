@@ -19,7 +19,7 @@
   - Stratégie
   - Objectifs
   - Travail d'équipe
- - [URL de l'illustration](https://www.dailymail.co.uk/sport/article-2556692/Sport-images-day-Our-picture-editors-selection-Feb-11.html)  : (ice_hockey.jpg)
+ - [URL de l'illustration](https://www.dailymail.co.uk/sport/article-2556692/Sport-images-day-Our-picture-editors-selection-Feb-11.html)  : ![Ice Hockey](ice_hockey.jpg)
    - https://www.dailymail.co.uk/sport/
 
 ## Support
